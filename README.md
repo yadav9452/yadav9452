@@ -1,4 +1,4 @@
-                                                                        Hi, I'm Rahul
+                                                                     Hi, I'm Rahul
 
 
 A passionate Full-Stack web developer from India
