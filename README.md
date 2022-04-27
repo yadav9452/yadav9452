@@ -3,7 +3,7 @@ Hi 👋 My name is Rahul Yadav
 
 A passionate Full-Stack web developer from India
 ------------------------------------------------
-hi, i'm Rahul Yadav, a passionate full stack web developer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Rahul Yadav, a passionate full stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 * 🌍  I'm based in Pune, Maharastra
 * ✉️  You can contact me at [yrahul9452@gmail.com](mailto:yrahul9452@gmail.com)
