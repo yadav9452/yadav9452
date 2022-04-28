@@ -5,7 +5,7 @@ A passionate Full-Stack web developer from India
 ------------------------------------------------
 hi, i'm Rahul Yadav, a passionate full stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-* 🌍  I'm based in Pune, Maharastra
+* 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [yrahul9452@gmail.com](mailto:yrahul9452@gmail.com)
 * 🖥️  See my portfolio at [Rahul-Yadav](http://curious-blancmange-d192bd.netlify.app/)
 * 🧠  I'm learning MERN Stack MongoDb || ExpressJS || ReactJS || NodeJS
