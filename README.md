@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadav9452" alt="yadav9452" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mrah9452" target="blanmk"><img src="https://img.shields.io/twitter/follow/mrah9452?logo=twitter&style=for-the-badge" alt="mrah9452" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mrah9452" target="blank"><img src="https://img.shields.io/twitter/follow/mrah9452?logo=twitter&style=for-the-badge" alt="mrah9452" /></a> </p>
 <br/>
 
 - 🔭 I’m currently working at **Masai School of Coding,Bengaluru**
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **yrahul9452@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1AhHrOA0LX-4ka0dSQoUXGou7lDgISLB-/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AhHrOA0LX-4ka0dSQoUXGou7lDgISLB-/view?usp=sharing" target="blank">resume</a>]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
