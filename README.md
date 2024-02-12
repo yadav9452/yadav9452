@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **yrahul9452@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AhHrOA0LX-4ka0dSQoUXGou7lDgISLB-/view?usp=sharing" target="blank">resume</a>]
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AhHrOA0LX-4ka0dSQoUXGou7lDgISLB-/view?usp=sharing" target="blank">resume</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
