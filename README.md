@@ -14,9 +14,9 @@
 
 - <p align="left">💬 Ask me about **HTML,CSS,JavaScript,React,Redux**<p/>
 
--<p align="left">📫 How to reach me **yrahul9452@gmail.com**<p/>
+- <p align="left">📫 How to reach me **yrahul9452@gmail.com**<p/>
 
--<p align="left">📄 Know about my experiences<p/> <a href="https://drive.google.com/file/d/1AhHrOA0LX-4ka0dSQoUXGou7lDgISLB-/view?usp=sharing" target="blank">resume</a>
+- <p align="left">📄 Know about my experiences<p/> <a href="https://drive.google.com/file/d/1AhHrOA0LX-4ka0dSQoUXGou7lDgISLB-/view?usp=sharing" target="blank">resume</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
