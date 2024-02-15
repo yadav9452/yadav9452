@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack web developer with a keen interest in crafting robust, scalable, and user-friendly web applications. With a solid foundation in both front-end and back-end technologies, I thrive on bringing ideas to life through clean and efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav9452&label=Profile%20views&color=0e75b6&style=flat" alt="yadav9452" /> </p>
 
