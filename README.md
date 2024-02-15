@@ -7,15 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/mrah9452" target="blank"><img src="https://img.shields.io/twitter/follow/mrah9452?logo=twitter&style=for-the-badge" alt="mrah9452" /></a> </p>
 <br/>
--🔭 I’m currently working at **Masai School of Coding,Bengaluru**
 
--👨‍💻 All of my projects are available at [https://yadav-rahul.netlify.app/](https://yadav-rahul.netlify.app/)
+- <p align="left">🔭 I’m currently working at **Masai School of Coding,Bengaluru** <p/>
 
--💬 Ask me about **HTML,CSS,JavaScript,React,Redux**
+- <p align="left">👨‍💻 All of my projects are available at [https://yadav-rahul.netlify.app/](https://yadav-rahul.netlify.app/)<p/>
 
--📫 How to reach me **yrahul9452@gmail.com**
+- <p align="left">💬 Ask me about **HTML,CSS,JavaScript,React,Redux**<p/>
 
--📄 Know about my experiences <a href="https://drive.google.com/file/d/1AhHrOA0LX-4ka0dSQoUXGou7lDgISLB-/view?usp=sharing" target="blank">resume</a>
+-<p align="left">📫 How to reach me **yrahul9452@gmail.com**<p/>
+
+-<p align="left">📄 Know about my experiences<p/> <a href="https://drive.google.com/file/d/1AhHrOA0LX-4ka0dSQoUXGou7lDgISLB-/view?usp=sharing" target="blank">resume</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
