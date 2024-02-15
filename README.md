@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">A dedicated full-stack web developer driven by a fervent enthusiasm for building resilient, scalable, and intuitive web solutions. Proficient in both front-end and back-end technologies, I excel in transforming concepts into reality through meticulous and effective coding practices./h3>
+<h3 align="left">A dedicated full-stack web developer driven by a fervent enthusiasm for building resilient, scalable, and intuitive web solutions. Proficient in both front-end and back-end technologies, I excel in transforming concepts into reality through meticulous and effective coding practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav9452&label=Profile%20views&color=0e75b6&style=flat" alt="yadav9452" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadav9452" alt="yadav9452" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mrah9452" target="blank"><img src="https://img.shields.io/twitter/follow/mrah9452?logo=twitter&style=for-the-badge" alt="mrah9452" /></a> </p>
-<br/>
 
 - <p align="left">🔭 I’m currently working at **Masai School of Coding,Bengaluru** <p/>
 
