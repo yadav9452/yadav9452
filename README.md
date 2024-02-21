@@ -9,7 +9,7 @@
 
 - <p align="left">🔭 I’m currently working at **Masai School of Coding,Bengaluru** <p/>
 
-- <p align="left">👨‍💻 All of my projects are available at [portfolio](https://yadav-rahul.netlify.app/)<p/>
+- <p align="left">👨‍💻 All of my projects are available at <a href="https://yadav-rahul.netlify.app/">portfolio</a> <p/>
 
 - <p align="left">💬 Ask me about **HTML,CSS,JavaScript,React,Redux**<p/>
 
