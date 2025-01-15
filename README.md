@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/mrah9452" target="blank"><img src="https://img.shields.io/twitter/follow/mrah9452?logo=twitter&style=for-the-badge" alt="mrah9452" /></a> </p>
 
-- <p align="left">🔭 I’m currently working at Newton School of Coding,Bengaluru<p/>
+- <p align="left">🔭 I’m currently working at **Newton School of Coding, Bengaluru**<p/>
 
-- <p align="left">🔭 I previously worked at Masai School of Coding,Bengaluru<p/>
+- <p align="left">🔭 I previously worked at **Masai School of Coding, Bengaluru**<p/>
+
 
 - <p align="left">👨‍💻 All of my projects are available at <a href="https://yadav-rahul.netlify.app/" target="blank">portfolio</a> <p/>
 
