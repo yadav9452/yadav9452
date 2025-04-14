@@ -14,9 +14,9 @@
 
 - <p align="left">👨‍💻 All of my projects are available at <a href="https://yadav-rahul.netlify.app/" target="blank">portfolio</a> <p/>
 
-- <p align="left">💬 Ask me about ***HTML,CSS,JavaScript,React,Redux***<p/>
+- <p align="left">💬 Ask me about <h2>HTML,CSS,JavaScript,React,Redux<h2><p/>
 
-- <p align="left">📫 How to reach me ***yrahul9452@gmail.com***<p/>
+- <p align="left">📫 How to reach me <h2>yrahul9452@gmail.com</h2><p/>
 
 - <p align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1AhHrOA0LX-4ka0dSQoUXGou7lDgISLB-/view?usp=sharing" target="blank">resume</a><p/> 
 
