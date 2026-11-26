@@ -19,8 +19,8 @@
 
 ---
 
-- 🔭 I’m currently working at **Newton School of Coding, Bengaluru**  
-- 🏫 I previously worked at **Masai School of Coding, Bengaluru**  
+- 🔭 I’m currently working at **Upgrad school of Technology, Pune**  
+- 🏫 I previously worked at **Newton School of Coding, Bengaluru and Masai School of Coding, Bengaluru**  
 - 👨‍💻 All of my projects are available at: [Portfolio](https://yadav-rahul.netlify.app/)  
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux**  
 - 📫 Reach me at: **yrahul9452@gmail.com**  
